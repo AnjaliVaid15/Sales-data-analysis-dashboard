@@ -1,8 +1,8 @@
-Sales Data Analysis Dashboard 
+**Sales Data Analysis Dashboard**
 
 This project is a Sales Data Analysis Dashboard built using Power BI to analyze sales performance across different dimensions such as region, product, and salesperson.
 
-Project Overview
+**Project Overview**
 
 The dataset was downloaded from Kaggle.
 
@@ -10,7 +10,7 @@ Data cleaning and transformation were performed using Power BI Power Query.
 
 An interactive dashboard was created to visualize key sales insights.
 
-Key Features
+**Key Features**
 
 KPI cards showing Total Orders, Total Quantity, Salesperson Count, and Total Revenue.
 
@@ -20,7 +20,7 @@ Sales trend over time using a line chart.
 
 Interactive filters for Region, Salesperson, and Date.
 
-Tools Used
+**Tools Used**
 
 Power BI
 
